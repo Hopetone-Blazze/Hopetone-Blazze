@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a big project
-- 🌱 I’m currently learning Github
+- 🌱 I’m currently learning at MSIT
 - 👯 I’m looking to collaborate on the big project
 - 🤔 I’m looking for help with programming
 - 💬 Ask me about the project
 - 📫 How to reach me: artandmusic@gmail.com
 - 😄 Pronouns: none
-- ⚡ Fun fact: many things
+- ⚡ Fun fact: many things happen for many reasons, but there is only one reason for many things to happen.
 
